@@ -1,0 +1,9 @@
+[package]
+name = "protos_compiler"
+version = "0.1.0"
+authors = ["caryliao"]
+edition = "2018"
+
+[dependencies]
+protobuf = "2.8.1"
+protoc-rust = "2.8.1"

@@ -1,0 +1,17 @@
+[workspace]
+
+members = [
+    "testsuite",
+    "adder",
+    "add_one",
+    "add_two",
+    "oop",
+    "protos_compiler",
+    "pbdemo",
+    "error_handling",
+    "type_demo",
+    "primitives_demo",
+    "custom_type_demo",
+    "move_demo",
+    "geektime/ch01",
+]
