@@ -5,5 +5,5 @@ authors = ["caryliao"]
 edition = "2018"
 
 [dependencies]
-protobuf = "2.8.1"
-protoc-rust = "2.8.1"
+protobuf = "2.10.1"
+protoc-rust = "2.10.1"
