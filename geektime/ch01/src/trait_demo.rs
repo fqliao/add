@@ -12,10 +12,6 @@ impl S {
 /// 定义方法f
 pub trait T1 {
     /// f函数
-    /// # Examples
-    /// ```
-    /// <S as T1>::f()
-    /// ```
     fn f();
 }
 
@@ -23,10 +19,6 @@ pub trait T1 {
 /// 定义方法f
 pub trait T2 {
     /// f函数
-    /// # Examples
-    /// ```
-    /// <S as T2>::f()
-    /// ```
     fn f();
 }
 
