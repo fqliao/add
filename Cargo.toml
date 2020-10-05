@@ -15,4 +15,5 @@ members = [
     "move_demo",
     "geektime/ch01",
     "geektime/ch02",
+    "geektime/ch03",
 ]
